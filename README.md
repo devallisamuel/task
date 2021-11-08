@@ -1,0 +1,2 @@
+# task
+ static page
